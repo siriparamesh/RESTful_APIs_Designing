@@ -54,7 +54,7 @@ Here is a preview of the API in action:
 
 ## ✨ Additional Info  
 This API was built as part of learning **RESTful API design** and **backend development** using Flask. The frontend (if needed) is hosted as `index.html`.  
-
+![API Preview](Image2.png) 
 ---  
 
 📌 *Happy Coding!* 🚀  
