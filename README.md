@@ -1,6 +1,6 @@
+# Cafe & Wifi API ☕🌐  
 # API_design
 Designed a RESTful API from scratch using flask
-# Cafe & Wifi API ☕🌐  
 
 This project is a **RESTful API** built using Flask, which provides information about cafes and their WiFi availability. The API supports CRUD operations and can be tested using Postman.  
 
@@ -17,7 +17,7 @@ You can explore the full API documentation in Postman:
 ## 🖼 API Preview  
 Here is a preview of the API in action:  
 
-![API Preview](Screenshot%202025-03-23%20at%208.46.52%20PM.png)  
+![API Preview](Image.png)  
 
 ## 🚀 How to Run  
 
