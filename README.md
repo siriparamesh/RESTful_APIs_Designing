@@ -8,7 +8,8 @@ This project is a **RESTful API** built using Flask, which provides information 
 - **GET**: Retrieve cafe data from the database.  
 - **POST**: Add new cafes.  
 - **PATCH**: Update cafe details (e.g., WiFi price).  
-- **DELETE**: Remove cafes from the database.  
+- **DELETE**: Remove cafes from the database.
+- **API Authentication** : Using API keys
 
 ## 📸 API Documentation  
 You can explore the full API documentation in Postman:  
@@ -43,7 +44,8 @@ Here is a preview of the API in action:
    - `GET /search?loc=Barbican` → Finds cafes in a specific location.  
    - `POST /add` → Adds a new cafe.  
    - `PATCH /update-price/22?new-price=3.80` → Updates WiFi pricing.  
-   - `DELETE /report-closed/22?api-key=...` → Deletes a cafe.  
+   - `DELETE /report-closed/22?api-key=...` → Deletes a cafe Only through proper Authentication
+     
 
 ## 🎯 Tech Stack  
 - **Flask** (Backend)  
